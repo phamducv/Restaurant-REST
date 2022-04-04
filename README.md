@@ -1,6 +1,6 @@
 # Restaurant-REST-API
 ## How to Run the Project
-1. Install MongoDB, Node.Js, Redis locally. [Tested with MacOSX 10.13.3]
+1. Install MongoDB, Node.Js, Redis locally. [MacOSX 10.13.3]
 2. Make sure mongodb and redis database are running locally.
 3. Go to api folder where package.json file is located here
 4. Run below command, to install node modules locally
